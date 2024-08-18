@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Resturant-website/static/css/main.3f3b853d.css",
+    "main.js": "/Resturant-website/static/js/main.f25f8a81.js",
+    "static/js/453.c936f158.chunk.js": "/Resturant-website/static/js/453.c936f158.chunk.js",
+    "static/media/img7.png": "/Resturant-website/static/media/img7.756649e3a94630b09d57.png",
+    "static/media/img6.png": "/Resturant-website/static/media/img6.77646fafe33e5676c892.png",
+    "static/media/i3.png": "/Resturant-website/static/media/i3.c4a545d81ae22370cc93.png",
+    "static/media/i4.png": "/Resturant-website/static/media/i4.c4a545d81ae22370cc93.png",
+    "static/media/i6.png": "/Resturant-website/static/media/i6.5bbdc60d58a953081e0f.png",
+    "static/media/i1.png": "/Resturant-website/static/media/i1.afe609e31e42acadf2b4.png",
+    "static/media/i2.png": "/Resturant-website/static/media/i2.7aa3694e762e861f2cf2.png",
+    "static/media/i5.png": "/Resturant-website/static/media/i5.771cf5acbfa47e189ff9.png",
+    "static/media/1.jpg": "/Resturant-website/static/media/1.a05a733fff11dff78773.jpg",
+    "static/media/img4.jpg": "/Resturant-website/static/media/img4.2ffda86e42eec8059d18.jpg",
+    "static/media/img2.jpg": "/Resturant-website/static/media/img2.6c7df20b8da0b822ed43.jpg",
+    "static/media/WhatsApp.png": "/Resturant-website/static/media/WhatsApp.31d4b1d27126bcc1f665.png",
+    "static/media/logo-06.png": "/Resturant-website/static/media/logo-06.9602c361ee8b4fee7602.png",
+    "static/media/add.jpg": "/Resturant-website/static/media/add.36f34de68926807e9ead.jpg",
+    "static/media/img3.webp": "/Resturant-website/static/media/img3.a8959dd2cf4b51560963.webp",
+    "static/media/pizza.jpeg": "/Resturant-website/static/media/pizza.f444b8453d49f2c49b21.jpeg",
+    "index.html": "/Resturant-website/index.html",
+    "main.3f3b853d.css.map": "/Resturant-website/static/css/main.3f3b853d.css.map",
+    "main.f25f8a81.js.map": "/Resturant-website/static/js/main.f25f8a81.js.map",
+    "453.c936f158.chunk.js.map": "/Resturant-website/static/js/453.c936f158.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f3b853d.css",
+    "static/js/main.f25f8a81.js"
+  ]
+}
