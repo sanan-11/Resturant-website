@@ -1,0 +1,45 @@
+ .about {
+   background-image: url(/public/images/img4.jpg);
+   background-size: cover;
+      height: 370px; 
+     background-position: center; 
+    
+    
+  } 
+  .img {
+    margin-top: 7rem;
+    margin-left: 15rem;
+    width: 150px;
+    height: 150px;
+    padding-bottom: 20px;
+    /* margin-bottom: 1rem; */
+  }
+  .aboutimg {
+    width: 300%;
+    height: 200%;
+    /* object-fit: cover; */
+    margin-top: 100px;
+    margin-right: 600px;
+  }
+  .heading {
+    margin-bottom: 50%;
+    padding-top: 100px;
+    text-align: center;
+    
+  }
+  .detail{
+    margin-top: -17rem;
+  }
+  
+  .paragraph {
+    width: 30%;
+    margin-left: 50rem;
+    margin-top: 1rem;
+  }
+  .icons {
+    margin-top: 3rem;
+    display: flex;
+    gap: 1rem;
+    margin-left: 45rem;
+  }
+  

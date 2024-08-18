@@ -1,0 +1,129 @@
+/* body{
+    background-color: #725304;
+} */
+*{
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  /* html,body{
+    height: 100%;
+    width: 100%;
+  } */
+
+img{
+    width: 20px;
+    height: 20px;
+    
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    width: 500px;
+    /* padding-bottom: 100px; */
+    /* height: 500px; */
+    margin-top: 150px;
+    background-color: #fff;
+    padding-bottom: 10px;
+    background: rgba( 0, 0, 0, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 9px;
+    width: 100%;
+    margin-top: 30px;
+}
+.text{
+    /* color: #D3A121; */
+    font-size: 40px;
+    font-weight: 700;
+}
+.underline{
+    width: 61px;
+    height: 6px;
+    background-color: #D3A121;
+    border-radius: 9px;
+}
+.inputs{
+    margin-top: 55px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.input{
+    display: flex;
+    align-items: center;
+    margin: auto;
+    width: 480px;
+    height: 70px;
+    background-color: #72560e;
+    border-radius: 10px;
+}
+.input img{
+    margin: 0px 30px;
+}
+.input input{
+    height: 50px;
+    height: 50px;
+    background: transparent;
+    border: none;
+    outline: none;
+    color: #797979;
+    font-size: 19px;
+    /* border-radius: 15px; */
+}
+.forget-password{
+    padding-left: 62px;
+    margin-top: 22px;
+    color: #030202;
+    font-size: 18px;
+}
+.forget-password span{
+    color: #4c00b4;
+    cursor: pointer;
+}
+
+.submit-container{
+    display: flex;
+    gap: 30px;
+    margin: 60px auto;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items:  center;
+    width: 220px;
+    height: 59px;
+    color: #fff;
+    background-color: #D3A121;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.gray{
+    background-color: #eaeaea;
+    color: #676767;
+}
+.submit1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 59px;
+    color: #fff;
+    background-color: #D3A121;
+    border-radius: 50px;
+    font-size: 19px;
+    font-weight: 700;
+    cursor: pointer;
+
+}
